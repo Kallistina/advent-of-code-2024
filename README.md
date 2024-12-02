@@ -88,12 +88,6 @@ Feel free to fork the repository and submit pull requests with your own solution
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as you like. 🎉
-
----
-
 ## 🌟 Acknowledgments
 
 A huge thanks to [Eric Wastl](https://twitter.com/ericwastl) for creating and maintaining Advent of Code, as well as the incredible community of coders who make it such an enjoyable event every year!
