@@ -13,8 +13,6 @@ Welcome to my **Advent of Code 2024** repository! Here, you'll find my solutions
 - **Engage in a global coding community**  
 - **Celebrate the holiday season with a coding twist!**
 
-![Advent of Code](https://raw.githubusercontent.com/user/repo/main/aoc-banner.png)
-
 ---
 
 ## 🛠️ How to Run the Code
