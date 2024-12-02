@@ -104,6 +104,3 @@ A huge thanks to [Eric Wastl](https://twitter.com/ericwastl) for creating and ma
 
 ### Happy Coding! 🎅🎄
 
-
-You can add an image banner for the repository if desired (e.g., a festive coding-related graphic) to replace the placeholder URL for the Advent of Code favicon.
-
