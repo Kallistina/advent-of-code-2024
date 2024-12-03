@@ -80,10 +80,10 @@ def calculate_similarity_score(array_2d):
 # Main function
 def main():
     """
-    Main function to demonstrate the usage of process_2d_array.
+    Main function 
     """
     # File containing the 2D array
-    input_file = "day1 puzzle input.txt"
+    input_file = "puzzle_input.txt"
 
     try:
         # Read the array from the file

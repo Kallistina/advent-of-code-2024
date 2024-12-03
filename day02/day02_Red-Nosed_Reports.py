@@ -1,10 +1,10 @@
-# Function to read a 2D array from a file
+# Function to read an array from a file
 def read_array_from_file(filename):
     """
-    Reads a 2D array with any number of rows and columns from a file.
+    Reads an array with any number of rows and columns from a file.
     
     :param filename: Name of the file containing the array
-    :return: 2D array as a list of lists
+    :return: the array as a list of lists
     """
     with open(filename, 'r') as file:
         lines = file.readlines()
@@ -81,10 +81,10 @@ def calculate_reports(array):
 # Main function
 def main():
     """
-    Main function to demonstrate the usage of process_2d_array.
+    Main function 
     """
-    # File containing the 2D array
-    input_file = "day2 puzzle input.txt"
+    # File containing the array
+    input_file = "puzzle_input.txt"
 
     try:
         # Read the array from the file
